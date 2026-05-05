@@ -5,11 +5,11 @@
 This project is an **intelligent Snake game** that learns how to play using a **Genetic Algorithm** and **Neural Networks**. The main goal is to demonstrate the power of machine learning in solving complex problems without the need to hard-code manual rules.
 
 ### Key Features:
-- 🧠 **Three-layer Neural Network** with $16$ inputs, $12$ hidden neurons, and $4$ outputs
-- 🧬 **Genetic Algorithm** with a population of $50$ agents
-- 📊 **Evolutionary Learning** over $100$ generations
-- 🎮 **Live Preview** of the best AI every $10$ generations
-- 💻 **No external dependencies** - Just standard C++
+-  **Three-layer Neural Network** with $16$ inputs, $12$ hidden neurons, and $4$ outputs
+-  **Genetic Algorithm** with a population of $50$ agents
+-  **Evolutionary Learning** over $100$ generations
+-  **Live Preview** of the best AI every $10$ generations
+-  **No external dependencies** - Just standard C++
 
 ---
 
@@ -305,12 +305,6 @@ Before:                 After:
 ⚠️ Performance drops on larger boards ($30 \times 30$)  
 ⚠️ Occasionally gets stuck in complex dead ends  
 ⚠️ Requires $100$ generations for full learning (time-consuming)  
-
-### Future Improvements:
-🔮 Add memory (LSTM) for long-term planning  
-🔮 Implement NEAT algorithm to evolve network structure  
-🔮 Save and load the best AI  
-🔮 Multiplayer mode (multiple AIs competing)  
 
 ---
 
