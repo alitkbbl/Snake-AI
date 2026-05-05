@@ -308,10 +308,4 @@ Before:                 After:
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License - feel free to use it for personal and educational purposes.
-
----
-
 **Final Note:** This project demonstrates that complex behaviors can be learned using simple algorithms. The key to success lies in the proper design of inputs and the fitness function!
