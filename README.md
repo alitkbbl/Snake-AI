@@ -1,4 +1,8 @@
 # 🐍 Snake AI - Learning to Play using Genetic Algorithm
+    <p align="center">
+      <img src="snake.webp" alt="Snake AI Project Banner" width="100%">
+    </p>
+
 
 ## 📋 Project Overview
 
